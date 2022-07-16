@@ -1,8 +1,5 @@
 ## Hello guys!😃
 
-- Intern
-- 📚 Studying TypeScript at the moment
-- ✉️ Contact me by email : pedrobrhl2003@gmail.com
 
 ### Technologies
 
